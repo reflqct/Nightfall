@@ -1,0 +1,7 @@
+name: Nightfall
+version: '${project.version}'
+main: org.azaleamc.nightfall.Nightfall
+api-version: 1.17
+authors: [ Ruby (Checks), George (Anticheat Base) ]
+description: Dynamic Anticheat
+website: nightfall.ivorydev.xyz
